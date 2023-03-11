@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![<Demiso1>'s 42 stats](https://badge.mediaplus.ma/darkblue/<Demiso1>)](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<Demiso1>)](https://github.com/oakoudad/badge42)
